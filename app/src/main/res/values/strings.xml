@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoviesApp</string>
+    <string name="alert">Alert!</string>
+    <string name="disconnect_conn">Connection Lost</string>
+    <string name="plz_w8">Please wait</string>
+    <string name="server_not_respond">Server not Responding</string>
+    <string name="check">Loading</string>
 </resources>

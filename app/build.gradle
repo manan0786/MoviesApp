@@ -51,9 +51,6 @@ dependencies {
 
     //    Alerter
     implementation 'com.tapadoo.android:alerter:2.0.4'
-    //   TODO: Logging-Interceptor
-    implementation("com.squareup.okhttp3:logging-interceptor:4.9.0")
-    // Searchable Spinner
-    implementation 'com.github.MdFarhanRaja:SearchableSpinner:2.0'
+
 
 }
